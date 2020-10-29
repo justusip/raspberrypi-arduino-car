@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CarMaster.main:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92f69151-d2a1-44f5-ae29-5ff2330a807a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Nozomi\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.6397.94\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jBNNtpwEu14tzHgw2NoW1LBeRk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="me.nozomi.car.hardware" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nozomi\Downloads\CarMaster" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CarMaster.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="me.nozomi.car.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92f69151-d2a1-44f5-ae29-5ff2330a807a" name="Default Changelist" comment="" />
+      <created>1603273489938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603273489938</updated>
+      <workItem from="1603273491111" duration="2777000" />
+      <workItem from="1603288330852" duration="10344000" />
+      <workItem from="1603335117456" duration="6829000" />
+      <workItem from="1603343216734" duration="62000" />
+      <workItem from="1603344321798" duration="22000" />
+      <workItem from="1603423134701" duration="13208000" />
+      <workItem from="1603448854091" duration="163000" />
+      <workItem from="1603449085464" duration="10260000" />
+      <workItem from="1603547739532" duration="138000" />
+      <workItem from="1603638740491" duration="1242000" />
+      <workItem from="1603683461981" duration="2254000" />
+      <workItem from="1603722561504" duration="72000" />
+      <workItem from="1603899933378" duration="584000" />
+      <workItem from="1603900635926" duration="444000" />
+      <workItem from="1603904390369" duration="20000" />
+      <workItem from="1603941600211" duration="1450000" />
+      <workItem from="1603957604860" duration="985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="751" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1603425166372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603425166372" />
+    <state x="690" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603448644866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603448644866" />
+    <state x="1163" y="447" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603459875768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1163" y="447" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603459875768" />
+    <state x="505" y="274" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1603426836457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="274" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1920.1040@0.0.1920.1040" timestamp="1603426836457" />
+    <state x="739" y="311" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1603425332699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="311" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603425332699" />
+    <state x="282" y="277" key="FileChooserDialogImpl" timestamp="1603900190588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="282" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603900190588" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1603904373297">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603904373297" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603900517546" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1603904373295">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603904373295" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603900517546" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1603904373294">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603904373294" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603900517546" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1603904373296">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603904373296" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603900517546" />
+    <state width="914" height="344" key="GridCell.Tab.1.bottom" timestamp="1603639983200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603639983200" />
+    <state width="914" height="344" key="GridCell.Tab.1.center" timestamp="1603639983200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603639983200" />
+    <state width="914" height="344" key="GridCell.Tab.1.left" timestamp="1603639983200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603639983200" />
+    <state width="914" height="344" key="GridCell.Tab.1.right" timestamp="1603639983200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603639983200" />
+    <state x="330" y="23" width="1024" height="824" key="SettingsEditor" timestamp="1603957650098">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="330" y="81" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603904406712" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603900275822" />
+    <state x="330" y="23" width="1024" height="824" key="SettingsEditor/0.23.1440.824@0.23.1440.824" timestamp="1603957650098" />
+    <state x="0" y="206" key="new project wizard" timestamp="1603435994018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="206" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603435994018" />
+    <state x="1105" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603460108989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1105" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603460108989" />
+  </component>
+</project>
