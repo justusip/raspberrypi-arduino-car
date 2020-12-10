@@ -1,0 +1,2 @@
+# MoougiCar
+This repository contains code for the components necessary for a MoougiCar RC Car to run. The CarMaster contains the system to be run in a Raspberry Pi ONS which controls an Atmega MCU through SPI via [Pi4J](https://pi4j.com/) which sends PWM signal to the pair of motors. The CarRemote contains an electron app for controlling the car through wireless LAN via [Socket.IO](https://socket.io/).
