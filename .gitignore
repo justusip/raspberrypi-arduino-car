@@ -1,0 +1,154 @@
+.idea
+
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+##############################
+## Maven
+##############################
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+##############################
+## Gradle
+##############################
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+##############################
+## NetBeans
+##############################
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+##############################
+## Visual Studio Code
+##############################
+.vscode/
+.code-workspace
+
+##############################
+## OS X
+##############################
+.DS_Store
+
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+
+cmake-build-debug
+cmake-build-uno
+.pio
+.idea
+
+
+.DS_Store
+.env
+.gclient_done
+**/.npmrc
+.tags*
+.vs/
+.vscode/
+*.log
+*.pyc
+*.sln
+*.swp
+*.VC.db
+*.VC.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.xcodeproj
+dist/
+node_modules/
+SHASUMS256.txt
+**/package-lock.json
+compile_commands.json
+.envrc
+
+# npm package
+npm/dist
+npm/path.txt
+npm/checksums.json
+
+.npmrc
+
+# Generated API definitions
+electron-api.json
+electron.d.ts
+
+# Spec hash calculation
+spec/.hash
+
+# Eslint Cache
+.eslintcache*
+
+# Generated native addon files
+spec-main/fixtures/native-addon/echo/build/
+
+# If someone runs tsc this is where stuff will end up
+ts-gen
+
+# Used to accelerate CI builds
+.depshash
+.depshash-target
+
+# Used to accelerate builds after sync
+patches/mtime-cache.json
+
+spec/fixtures/logo.png
